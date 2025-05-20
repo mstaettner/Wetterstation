@@ -488,13 +488,20 @@ Beim Discord Bot gab es anfangs Probleme, da wir den Code online auf replit lauf
 ## 6.  Quellen
 
 (No date a) Chatgpt. Available at: https://chatgpt.com/ (Accessed: 20 May 2025). 
+
 (No date b) YouTube. Available at: https://www.youtube.com/watch?v=dqYqE46zqok&ab_channel=Programmierenlernen (Accessed: 20 May 2025). 
+
 Amos, D. et al. (2025) ESP32 web server - arduino IDE, Random Nerd Tutorials. Available at: https://randomnerdtutorials.com/esp32-web-server-arduino-ide/ (Accessed: 20 May 2025). 
+
 Arduino - DHT11: Arduino tutorial (2025) Arduino Getting Started. Available at: https://arduinogetstarted.com/tutorials/arduino-dht11 (Accessed: 20 May 2025). 
+
 Domenico et al. (2020a) ESP32 NTP client-server: Get date and Time (arduino IDE), Random Nerd Tutorials. Available at: https://randomnerdtutorials.com/esp32-date-time-ntp-client-server-arduino/ (Accessed: 20 May 2025). 
-Domenico et al. (2020b) ESP32 NTP client-server: Get date and Time (arduino IDE), Random Nerd Tutorials. Available at: https://randomnerdtutorials.com/esp32-date-time-ntp-client-server-arduino/ (Accessed: 20 May 2025). 
+
 ESP32-C3-DevKitM-1 (no date) ESP. Available at: https://docs.espressif.com/projects/esp-idf/en/v5.2/esp32c3/hw-reference/esp32c3/user-guide-devkitm-1.html#user-guide-c3-devkitm-1-v1-board-front (Accessed: 20 May 2025). 
+
 joortiz22 (2023) 28BYJ-48 4-phase stepper motor, Arduino Forum. Available at: https://forum.arduino.cc/t/28byj-48-4-phase-stepper-motor/1162926 (Accessed: 20 May 2025). 
+
 Schmidt, M. (2022) Dht11 temperatur sensor per arduino auslesen, Roboter. Available at: https://www.roboter-bausatz.de/projekte/dht11-temperatur-sensor-per-arduino-auslesen?srsltid=AfmBOopS9BJeyRJyWws816lUohxiCfME4eSfn0TZwJunxg6-xpVXj8ic (Accessed: 20 May 2025). 
+
 Staff, L.E. (2022) In-depth: Create a simple ESP32 web server in Arduino Ide, Last Minute Engineers. Available at: https://lastminuteengineers.com/creating-esp32-web-server-arduino-ide/ (Accessed: 20 May 2025). 
 Wokwi (no date) https://wokwi.com/projects/398783294547421185 (Accessed: 20 May 2025).
