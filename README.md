@@ -495,7 +495,7 @@ Amos, D. et al. (2025) ESP32 web server - arduino IDE, Random Nerd Tutorials. Av
 
 Arduino - DHT11: Arduino tutorial (2025) Arduino Getting Started. Available at: https://arduinogetstarted.com/tutorials/arduino-dht11 (Accessed: 20 May 2025). 
 
-Domenico et al. (2020a) ESP32 NTP client-server: Get date and Time (arduino IDE), Random Nerd Tutorials. Available at: https://randomnerdtutorials.com/esp32-date-time-ntp-client-server-arduino/ (Accessed: 20 May 2025). 
+Domenico et al. (2020) ESP32 NTP client-server: Get date and Time (arduino IDE), Random Nerd Tutorials. Available at: https://randomnerdtutorials.com/esp32-date-time-ntp-client-server-arduino/ (Accessed: 20 May 2025). 
 
 ESP32-C3-DevKitM-1 (no date) ESP. Available at: https://docs.espressif.com/projects/esp-idf/en/v5.2/esp32c3/hw-reference/esp32c3/user-guide-devkitm-1.html#user-guide-c3-devkitm-1-v1-board-front (Accessed: 20 May 2025). 
 
