@@ -26,7 +26,7 @@ Zuerst haben wir unseren ESP32C3, sowie das Treiberboard unsereres Schrittmotors
 
 ### Code
 
-Hier ist der Code für den ESP zu finden (HTML/JS wurde nicht in eine extra Datei gegeben um nur eine Datein zu haben, um welche sich gekümmert werden muss. Sprich, wenn sich es bei dieser Datei keine Probleme gibt funktioniert die ganze Wetterstation) : 
+Hier ist der Code für den ESP zu finden (HTML/JS wurde nicht in eine extra Datei gegeben um nur eine Datein zu haben, um welche sich gekümmert werden muss. Sprich, wenn es bei dieser Datei keine Probleme gibt funktioniert die ganze Wetterstation. Chat-GPT wurde teilweise zur Hilfe bei Problemen benutzt, bei denen wir selber nicht mehr weitergekommen sind.) : 
 
 ```c++
 // Bibliotheken für WLAN, Webserver, DHT11, Zeit, Schrittmotor, RGB-LED und HTTP-Requests einbinden
@@ -389,7 +389,7 @@ void loop() {
   }
 }
 ```
-Hier ist der Python Code für den Discord-Bot zu finden:
+Hier ist der Python Code für den Discord-Bot zu finden (Dieser wurde mithilfe von Chat-GPT erstellt, da wir Python noch nicht gelernt haben.):
 
 ```python
 # importiert die benötigten Module für den Discord-Bot und HTTP-Anfragen
@@ -450,7 +450,7 @@ bot.run(TOKEN)
 ![Schaltplan](https://github.com/mstaettner/Wetterstation/raw/img/Schaltplan.png)
 
 #### Aufbau in echt während dem Betrieb:
-![WhatsApp-Bild](https://github.com/mstaettner/Wetterstation/raw/img/WhatsApp%20Bild%202025-05-20%20um%2017.30.47_40694277.jpg)
+![Aufbau irl während Betrieb](https://github.com/mstaettner/Wetterstation/raw/img/WhatsApp%20Bild%202025-05-20%20um%2017.30.47_40694277.jpg)
 
 ### Tabellen
 
